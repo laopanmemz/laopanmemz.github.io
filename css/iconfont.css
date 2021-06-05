@@ -1,6 +1,6 @@
 @font-face {
   font-family: "iconfont"; /* Project id  */
-  src: url('iconfont.ttf?t=1620546934417') format('truetype');
+  src: url('../diy-font/iconfont.ttf?t=1620546934417') format('truetype');
 }
 
 .iconfont {
